@@ -1,4 +1,4 @@
-# Desenvolvimento de Bando de Dados Relacional
+# Desenvolvimento de Banco de Dados Relacional
 
 ---
 
