@@ -1,4 +1,4 @@
-# PROJETO-PROJETO-E-DESENVOLVIMENTO-DE-SISTEMA-DE-BANCO-DE-DADOS-RELACIONAL
+# Desenvolvimento de Bando de Dados Relacional
 
 ---
 
